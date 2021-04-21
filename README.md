@@ -1,7 +1,6 @@
-### Hola mundo 
+### Hola mundo 🌍 👩‍💻
 
-<p><em>A bachelor student at <a href="https://hogent.be">University College Ghent</a>, majoring in Computer Science. 😊</br>
-</em></p>
+<p>Soy Frontend Developer junior, acabada de salir del bootcamp impartido en <a href="https://www.barcelonactiva.cat/itacademy">Barcelona Activa</a>.</p>
 
 
 ```javascript
@@ -10,14 +9,14 @@ const MartaCasal = {
    technologies: {
       frontEnd: {
          js: ["Angular"],
-         css: ["Bootstrap", "Material Design", "Tailwind CSS"]
+         css: ["Bootstrap", "Tailwind CSS", "Material Design"]
       },
       backEnd: {
-         js: ["Node"],
+         js: ["Node"]
       },
-      databases: ["mySQL"],
+      databases: ["mySQL"]
    },
-   currentOccupation: ["last year student, open for job opportunities"],
+   currentlyEmployed: false,
    challenge: "I'm working towards being able to run a marathon.",
 };
 ```
