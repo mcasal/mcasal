@@ -1,10 +1,10 @@
-### ¡Hola mundo! 🌍 👩‍💻 🖖
+# ¡Hola mundo! 🌍 👩‍💻 🖖
 
 <p>Soy Frontend Developer junior, acabada de salir del bootcamp impartido en <a href="https://www.barcelonactiva.cat/itacademy">Barcelona Activa</a>.</p>
 
 </br></br>
 
-### Languajes y herramientas:
+## Languajes y herramientas:
 
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> 
@@ -21,10 +21,12 @@
 
 </br></br>
 
-### 💻 Algunos stats 💻
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcasal&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-</br></br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcasal&show_icons=true&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 💻 Algunos stats 💻
+
+<a href="https://github.com/mcasal">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mcasal&show_icons=true&theme=graywhite" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcasal&show_icons=true&theme=graywhite&layout=compact" />
+</a>
 
 <!--
 <p align="center"><img src="https://profile-counter.glitch.me/{mcasal}/count.svg" alt="mcasal :: Visitor's Count" /></p>
