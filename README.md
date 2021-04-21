@@ -2,24 +2,6 @@
 
 <p>Soy Frontend Developer junior, acabada de salir del bootcamp impartido en <a href="https://www.barcelonactiva.cat/itacademy">Barcelona Activa</a>.</p>
 
-
-```javascript
-const MartaCasal = {
-   code: [HTML, CSS, Javascript, Typescript],
-   technologies: {
-      frontEnd: {
-         js: ["Angular"],
-         css: ["Bootstrap", "Tailwind CSS", "Material Design"]
-      },
-      backEnd: {
-         js: ["Node"]
-      },
-      databases: ["mySQL"]
-   },
-   currentlyEmployed: false,
-   challenge: "I'm working towards being able to run a marathon.",
-};
-```
 </br></br>
 
 ### Languajes y herramientas:
@@ -32,13 +14,18 @@ const MartaCasal = {
 <img align="left" alt="Sass" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="Bootstrap" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 <img align="left" alt="Tailwind CSS" width="35px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>
+<img align="left" alt="Leaflet" width="35px" src="https://www.vectorlogo.zone/logos/leafletjs/leafletjs-icon.svg"/>
 <img align="left" alt="Git" width="35px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
 <img align="left" alt="Figma" width="35px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
+<img align="left" alt="inVision" width="35px" src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg"/>
 
 </br></br>
 
+### Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcasal&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcasal)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"><img src="https://profile-counter.glitch.me/{mcasal}/count.svg" alt="mcasal :: Visitor's Count" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcasal&langs_count=10&theme=tokyonight&layout=compact" alt="mcasal :: Top Langs" /></p>
 
 <!-- 
 ```toml
