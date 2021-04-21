@@ -3,6 +3,11 @@
 <p>Soy Frontend Developer junior, acabada de salir del bootcamp impartido en <a href="https://www.barcelonactiva.cat/itacademy">Barcelona Activa</a>.</p>
 
 </br></br>
+</br></br>
+
+## Sobre mi!
+[Captura de pantalla 2021-04-21 a les 13 14 29](https://user-images.githubusercontent.com/60666104/115545065-a9f97900-a2a3-11eb-9ef7-cc6866230534.png)
+
 
 ## Languajes y herramientas:
 
@@ -19,6 +24,7 @@
 <img align="left" alt="Figma" width="35px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
 <img align="left" alt="inVision" width="35px" src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg"/>
 
+</br></br>
 </br></br>
 
 ## 💻 Algunos stats 💻
