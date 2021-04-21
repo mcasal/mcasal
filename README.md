@@ -2,11 +2,11 @@
 
 <p>Soy Frontend Developer junior, acabada de salir del bootcamp impartido en <a href="https://www.barcelonactiva.cat/itacademy">Barcelona Activa</a>.</p>
 
+</br></br>
 
 ## Sobre mi:
 <img width="100%" src="https://user-images.githubusercontent.com/60666104/115545065-a9f97900-a2a3-11eb-9ef7-cc6866230534.png"/>
 
-</br></br>
 </br></br>
 
 ## Languajes y herramientas:
