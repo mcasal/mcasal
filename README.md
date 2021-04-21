@@ -21,12 +21,14 @@
 
 </br></br>
 
-### Stats
+### 💻 Algunos stats 💻
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcasal&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 </br></br>
-([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcasal&show_icons=true&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats))](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcasal&show_icons=true&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 <p align="center"><img src="https://profile-counter.glitch.me/{mcasal}/count.svg" alt="mcasal :: Visitor's Count" /></p>
+-->
 
 <!-- 
 ```toml
