@@ -1,4 +1,4 @@
-### Hola mundo 🌍 👩‍💻
+### ¡Hola mundo! 🌍 👩‍💻 🖖
 
 <p>Soy Frontend Developer junior, acabada de salir del bootcamp impartido en <a href="https://www.barcelonactiva.cat/itacademy">Barcelona Activa</a>.</p>
 
@@ -22,7 +22,7 @@ const MartaCasal = {
 ```
 </br></br>
 
-### Languages and Tools:
+### Languajes y herramientas:
 
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> 
@@ -31,10 +31,12 @@ const MartaCasal = {
 <img align="left" alt="Angular" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="Sass" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="Bootstrap" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Figma" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/figma/figma.png" />
+<img align="left" alt="Tailwind CSS" width="35px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>
+<img align="left" alt="Git" width="35px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
+<img align="left" alt="Figma" width="35px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
 
 </br></br>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcasal)](https://github.com/anuraghazra/github-readme-stats)
 
