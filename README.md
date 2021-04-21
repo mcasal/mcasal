@@ -6,7 +6,7 @@
 
 ```javascript
 const MartaCasal = {
-   code: [HTML, CSS, Javascript, Typescript, Python, Java, CSharp, Kotlin, Swift],
+   code: [HTML, CSS, Javascript, Typescript],
    technologies: {
       frontEnd: {
          js: ["Angular"],
@@ -38,3 +38,36 @@ const MartaCasal = {
 </br></br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcasal)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- 
+```toml
+
+[personal]
+name = 'Govind KP'
+city = 'Bengaluru, India'
+email = 'reisub0 "at" gmail.com'
+
+[professional]
+currently-employed = true
+title = 'Software Development Engineer'
+employer = 'MathWorks Inc.'
+
+[bio]
+categories = [
+  'generalist',
+]
+interests = [
+  'functional-programming',
+  'linux',
+  'open-source',
+]
+programming-languages = [
+  'c/cpp',
+  'python',
+  'unity/c#',
+  'rust',
+  'go',
+]
+
+```
+-->
