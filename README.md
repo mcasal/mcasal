@@ -1,7 +1,5 @@
 ### Hello world 👋 I'm Marta Casal!
 
-<!--
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -12,4 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+Això és un [link](https://www.linkedin.com/in/marta-casal-tapia)
