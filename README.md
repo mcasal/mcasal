@@ -12,3 +12,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 Això és un [link](https://www.linkedin.com/in/marta-casal-tapia)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcasal)](https://github.com/anuraghazra/github-readme-stats)
