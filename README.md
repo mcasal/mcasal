@@ -1,15 +1,15 @@
-# ¡Hola mundo! 🌍 👩‍💻 🖖
+# ¡Hola mundo! 🌍 🖖
 
 <p>Soy Frontend Developer junior, acabada de salir del bootcamp impartido en <a href="https://www.barcelonactiva.cat/itacademy">Barcelona Activa</a>.</p>
 
 </br></br>
 
-## Sobre mi:
+## 👩‍💻  Sobre mi:
 <img width="100%" src="https://user-images.githubusercontent.com/60666104/115545065-a9f97900-a2a3-11eb-9ef7-cc6866230534.png"/>
 
 </br></br>
 
-## Languajes y herramientas:
+## 🛠️ Languajes y herramientas:
 
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> 
@@ -27,7 +27,7 @@
 </br></br>
 </br></br>
 
-## 💻 Algunos stats 💻
+## 💻 Algunos stats:
 
 <a href="https://github.com/mcasal">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mcasal&show_icons=true&theme=graywhite" />
